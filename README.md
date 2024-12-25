@@ -1,2 +1,1 @@
-# X-Whatsapp
 Closed 
